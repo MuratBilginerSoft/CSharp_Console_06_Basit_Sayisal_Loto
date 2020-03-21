@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basit Sayısal Loto", "Basit Sayısal Loto\Basit Sayısal Loto.csproj", "{5B7C3F2A-880F-48BC-A5C3-FF53FCD56DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B7C3F2A-880F-48BC-A5C3-FF53FCD56DEF}.Debug|x86.ActiveCfg = Debug|x86
+		{5B7C3F2A-880F-48BC-A5C3-FF53FCD56DEF}.Debug|x86.Build.0 = Debug|x86
+		{5B7C3F2A-880F-48BC-A5C3-FF53FCD56DEF}.Release|x86.ActiveCfg = Release|x86
+		{5B7C3F2A-880F-48BC-A5C3-FF53FCD56DEF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\ncfkr1\Desktop\ \C#\Basit Sayısal Loto\Basit Sayısal Loto\bin\Debug\Basit Sayısal Loto.exe
+C:\Users\ncfkr1\Desktop\ \C#\Basit Sayısal Loto\Basit Sayısal Loto\bin\Debug\Basit Sayısal Loto.pdb
+C:\Users\ncfkr1\Desktop\ \C#\Basit Sayısal Loto\Basit Sayısal Loto\obj\x86\Debug\Basit Sayısal Loto.exe
+C:\Users\ncfkr1\Desktop\ \C#\Basit Sayısal Loto\Basit Sayısal Loto\obj\x86\Debug\Basit Sayısal Loto.pdb
